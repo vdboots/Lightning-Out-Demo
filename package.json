@@ -13,7 +13,7 @@
   "keywords": [
     "Node.Js",
     "Lightnig Component",
-	"Lightnig Out",
+    "Lightnig Out",
     "API",
     "Salesforce"
   ],
@@ -25,9 +25,9 @@
     "http": "~0.0.0",
     "request": "~2.36.0",
     "body-parser": "~1.6.2",
-	"cors":"2.8.1"
+    "cors": "2.8.1"
   },
   "engines": {
-	    "node": "0.10.x"
-	  }
+    "node": "0.10.x"
+  }
 }
